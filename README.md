@@ -4,7 +4,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="./assets/cpu-circuit-header.png" width="100%" alt="Futuristic CPU with electric signals"/>
+  <img src="./cpu-circuit-header.png" width="100%" alt="Futuristic CPU with electric signals"/>
 </p>
 
 <h1 align="center">
